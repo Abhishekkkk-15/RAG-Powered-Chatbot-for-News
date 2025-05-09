@@ -17,6 +17,7 @@
     "cors": "^2.8.5",
     "dotenv": "^16.5.0",
     "express": "^5.1.0",
+    "redis": "^5.0.1",
     "weaviate-client": "^3.5.3",
     "weaviate-ts-client": "^2.2.0"
   }

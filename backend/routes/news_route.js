@@ -5,6 +5,6 @@ const router = express.Router()
 router.get("/articles/:category", getAllAricles)
 router.get("/article/:id", getArticle)
 router.post("/new_query", storeEmbeddingText)
-router.post("/ask", askAi)
+router.post("/ask/:session_id", askAi)
 
 export default router

@@ -19,6 +19,10 @@ await client.schema
       {
         name: "source",
         dataType: ["text"]
+      },
+      {
+        name: "publishedAt",
+        dataType: ["text"]
       }
     ]
   })

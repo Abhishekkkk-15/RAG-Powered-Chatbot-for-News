@@ -5,7 +5,6 @@ import { v4 as uuidv4 } from 'uuid';
 
 export async function storeText(title = "", description = "", source = "") {
   const fullText = `${title} - ${description}`.trim();
-
   if (!fullText) {
     console.log("⚠️ No data to store.");
     return;

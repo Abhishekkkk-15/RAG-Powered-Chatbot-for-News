@@ -7,7 +7,7 @@ const AIChat: React.FC = () => {
   const [message, setMessage] = useState('');
   const [chatMessages, setChatMessages] = useState<ChatMessage[]>([]);
   const [isTyping, setIsTyping] = useState(false);
-  const [isOpen, setIsOpen] = useState(false); // Track chatbox open/close
+  const [isOpen, setIsOpen] = useState(false); 
   const messagesEndRef = useRef<HTMLDivElement>(null);
 
   useEffect(() => {
@@ -30,14 +30,15 @@ const AIChat: React.FC = () => {
     setIsTyping(true);
 
     try {
-      const { data } = await axios.post('http://localhost:3000/api/ask', {
+      const sessionId = localStorage.getItem("sessionId");
+      const { data } = await axios.post(`http://localhost:3000/api/ask/${sessionId}`, {
         query: message,
       });
 
       const aiMessage: ChatMessage = {
-        article_id: Date.now().toString() + '_ai',
+        article_id: Date.now().toString() + '_bot',
         content: data?.data || 'Sorry, I could not understand that.',
-        sender: 'ai',
+        sender: 'bot',
         timestamp: new Date().toISOString(),
       };
 
@@ -47,7 +48,7 @@ const AIChat: React.FC = () => {
       const errorMessage: ChatMessage = {
         article_id: Date.now().toString() + '_error',
         content: 'An error occurred. Please try again later.',
-        sender: 'ai',
+        sender: 'bot',
         timestamp: new Date().toISOString(),
       };
       setChatMessages(prev => [...prev, errorMessage]);
@@ -109,13 +110,13 @@ const AIChat: React.FC = () => {
                       : 'bg-gray-100 dark:bg-slate-700 text-gray-800 dark:text-gray-200 rounded-tl-none'}`}
                   >
                     <div className="flex items-center mb-1">
-                      {msg.sender === 'ai' ? (
+                      {msg.sender === 'bot' ? (
                         <Bot className="h-4 w-4 mr-1 text-blue-600 dark:text-blue-400" />
                       ) : (
                         <User className="h-4 w-4 mr-1 text-white" />
                       )}
                       <span className="text-xs opacity-75">
-                        {msg.sender === 'ai' ? 'AI Assistant' : 'You'}
+                        {msg.sender === 'bot' ? 'AI Assistant' : 'You'}
                       </span>
                     </div>
                     <p className="text-sm">{msg.content}</p>

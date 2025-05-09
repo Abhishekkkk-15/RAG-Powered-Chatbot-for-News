@@ -1,9 +1,11 @@
 import express from "express";
-import newRouter from "./routes/news_route.js";
 import bodyParser from "body-parser";
 import fetchNewsArticle from "./services/fetchNews.js";
 import cors from "cors";
 import axios from "axios";
+import newRouter from "./routes/news_route.js";
+import userRouter from "./routes/user_route.js";
+import { initRedis } from "./services/redis.js";
 const app = express();
 app.use(
   cors({
@@ -23,8 +25,10 @@ app.get("/get", async (req, res) => {
 });
 // If using body-parser (optional)
 app.use(bodyParser.json({ limit: "10mb" }));
+initRedis()
 
 app.use("/api", newRouter);
+app.use("/api", userRouter);
 app.listen(3000, () => {
   console.log("Server is running on port 3000");
 });

@@ -20,7 +20,7 @@ export interface Category {
 export interface ChatMessage {
   article_id: string;
   content: string;
-  sender: 'user' | 'ai';
+  sender: 'user' | 'bot';
   timestamp: string;
   articleId?: string;
 }
