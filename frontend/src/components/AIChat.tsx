@@ -70,10 +70,11 @@ const AIChat: React.FC = () => {
 
   useEffect(() => {
     (async () => {
+      if(!sessionId) return
       try {
         const { data } = await chatHistory(sessionId!);
         if (data.data) {
-          // Flatten the nested array and map it to ChatMessage[]
+      
           const transformedMessages: ChatMessage[] = data.data
             .flat()
             .map((msg: any, idx: number) => ({
