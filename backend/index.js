@@ -8,7 +8,7 @@ import { initRedis } from "./services/redis.js";
 const app = express();
 app.use(
   cors({
-    origin: "https://newsai-flax.vercel.app/",
+    origin: "https://newsai-flax.vercel.app",
     credentials: true, // Allow credentials (cookies)
   })
 );
