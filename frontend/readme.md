@@ -9,7 +9,6 @@ This is the frontend for the RAG-based chatbot application. Built using React an
 - **React (TypeScript)**
 - **Tailwind CSS**
 - **Axios** for API calls
-- **State Management** (if any)
 
 ---
 
@@ -55,17 +54,16 @@ npm install
 npm run dev
 ```
 
-4. **Environment Variables** (Optional if using `.env.local`):
-Set API endpoint if needed.
-
 ---
 
 ## 🌐 Deployment
-Deploy easily using [Vercel](https://vercel.com)
+Deploy easily using [Vercel](https://newsai-flax.vercel.app/)
 
 ---
 
 ## 📸 Screenshots
 (Add frontend UI screenshots here)
+![New's AI](https://res.cloudinary.com/dha7ofrer/image/upload/v1746897240/newsai/bfpgxctjiczmxhwklkyf.jpgg)
+![New's AI](https://res.cloudinary.com/dha7ofrer/image/upload/v1746897269/newsai/hslecuabslv72tbdjfcq.jpg)
 
 ---
