@@ -1,10 +1,8 @@
 import express from "express"
-import { getAllAricles, getArticle, askAi, storeEmbeddingText } from "../controllers/news_controller.js"
+import { getAllArticles, askAi } from "../controllers/news_controller.js"
 const router = express.Router()
 
-router.get("/articles/:category", getAllAricles)
-router.get("/article/:id", getArticle)
-router.post("/new_query", storeEmbeddingText)
-router.post("/ask/:session_id", askAi)
+router.get("/articles/:category", getAllArticles)
+router.post("/articles/ask/:session_id", askAi)
 
 export default router

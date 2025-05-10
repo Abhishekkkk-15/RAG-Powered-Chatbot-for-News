@@ -27,11 +27,11 @@ const NewsArticleCard: React.FC<NewsArticleCardProps> = ({ article, featured = f
           alt={title} 
           className="w-full h-full object-cover transform group-hover:scale-105 transition-transform duration-500 ease-in-out"
         />
-        <div className="absolute top-0 left-0 m-3">
+        {category && <div className="absolute top-0 left-0 m-3">
           <span className="inline-block px-3 py-1 text-xs font-medium bg-blue-800 text-white rounded-full capitalize">
-            {category || " category "}
+            {category}
           </span>
-        </div>
+        </div>}
       </div>
       
       <div className="p-4">

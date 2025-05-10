@@ -2,8 +2,8 @@ import React, { useState, useEffect } from "react";
 import NewsArticleCard from "../components/NewsArticleCard";
 import CategoryFilter from "../components/CategoryFilter";
 
-import axios from "axios";
 import AIChat from "../components/AIChat";
+import { getAllArticles, setUserSession } from "../api/api";
 
 const Home: React.FC = () => {
   //  const [close, onClose] = useState(false)
@@ -14,10 +14,9 @@ const Home: React.FC = () => {
   useEffect(() => {
     const fetchNewsArticles = async () => {
       setLoading(true);
-      const { data } = await axios.get(
-        `http://localhost:3000/api/articles/${category}`
-      );
-      console.log(data.data);
+      const { data } = await getAllArticles(category)
+
+      console.log("data fecting");
       setFilteredArticles(data.data);
       setLoading(false);
     };
@@ -27,7 +26,7 @@ const Home: React.FC = () => {
   useEffect(() => {
     async function setSession() {
      try {
-       const { data } = await axios.get("http://localhost:3000/api/user/chat");
+       const { data } = await setUserSession()
        console.log("session data",data)
        localStorage.setItem("sessionId", data.data);
      } catch (error) {

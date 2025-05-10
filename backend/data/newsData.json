@@ -1,0 +1,1436 @@
+{
+  "status": "ok",
+  "totalResults": 45753,
+  "articles": [
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Adrienne So",
+      "title": "The Apple Watch Turns 10. Here's How Far It's Come",
+      "description": "When the Apple Watch launched, it was unclear if smartwatches would pan out. Ten years later, Apple has a $100-billion hit that reshaped the watch industry and ushered in a new age of fitness tracking.",
+      "url": "https://www.wired.com/story/apple-watch-turns-10/",
+      "urlToImage": "https://media.wired.com/photos/6809646e58f463c0470389a0/191:100/w_1280,c_limit/Apple-Watch-10th-Anniversary_042025_Lede.jpg",
+      "publishedAt": "2025-04-24T14:02:22Z",
+      "content": "Every year, Apple launches one standout health feature, from measuring VO2 Max on the Series 3 to the ECG sensor on the Series 4, all the way to sleep apnea notifications on the Series 10. If you zoo… [+2825 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Brenda Stolyar",
+      "title": "22 Best MacBook Accessories (2025), Tested and Reviewed",
+      "description": "From charging adapters to external monitors, we’ve gathered the essential peripherals for your Apple laptop.",
+      "url": "https://www.wired.com/gallery/best-macbook-accessories/",
+      "urlToImage": "https://media.wired.com/photos/680971b8740117201b72f852/191:100/w_2580,c_limit/Best-MacBook-Accessories_042025_Lede.jpg",
+      "publishedAt": "2025-04-24T12:30:00Z",
+      "content": "More Good Accessories\r\nApple 35W Dual USB-C Port Compact Power Adapter\r\nPhotograph: Apple\r\nWe've tested a lot of accessories. Here are a few more solid options if you're hunting for more.\r\nApple 35W … [+6818 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Kate Knibbs",
+      "title": "Trump’s Tariffs Are Threatening America’s Apple Juice Supply Chain",
+      "description": "Most of the apple juice Americans drink is imported, with a large share coming from China. Experts say families should expect to start paying higher prices for the beloved beverage.",
+      "url": "https://www.wired.com/story/apple-juice-shortage-tariffs/",
+      "urlToImage": "https://media.wired.com/photos/6812934a8f16f415836a2072/191:100/w_1280,c_limit/Apple-Juice-Shortage-Business-2211147875.jpg",
+      "publishedAt": "2025-05-06T11:00:00Z",
+      "content": "Few foods are more American than apple pie, but the truth is, some of the countrys favorite apple products arent actually made in the United States. Apple juice, a perennial lunchroom staple, is a pr… [+2760 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Paresh Dave",
+      "title": "Apple May Face Criminal Charges for Allegedly Lying to a Federal Judge",
+      "description": "A US judge says Apple deliberately chose not to comply with an order requiring it to loosen App Store rules—and then tried to cover up its disobedience.",
+      "url": "https://www.wired.com/story/antitrust-judge-asks-doj-prosecute-apple/",
+      "urlToImage": "https://media.wired.com/photos/6812b2ad2fb47b18ddd52359/191:100/w_1280,c_limit/Apple-Antitrust-Judge-Business-2194365320.jpg",
+      "publishedAt": "2025-05-01T00:20:26Z",
+      "content": "Apple willfully chose not to comply with a court order to loosen its app store restrictionsand one of its executives lied under oath about the companys plans, a federal judge wrote on Wednesday.\r\nJud… [+2982 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Lily Hay Newman, Andy Greenberg",
+      "title": "Millions of Apple Airplay-Enabled Devices Can Be Hacked via Wi-Fi",
+      "description": "Researchers reveal a collection of bugs known as AirBorne that would allow any hacker on the same Wi-Fi network as a third-party AirPlay-enabled device to surreptitiously run their own code on it.",
+      "url": "https://www.wired.com/story/airborne-airplay-flaws/",
+      "urlToImage": "https://media.wired.com/photos/680bfb50851c144df44b3519/191:100/w_1280,c_limit/airplay-malware-gear-1391670285.jpg",
+      "publishedAt": "2025-04-29T12:30:00Z",
+      "content": "Apples AirPlay feature enables iPhones and Macbooks to seamlessly play music or show photos and videos on other Apple devices or third-party speakers and TVs that integrate the protocol. Now newly un… [+3414 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Lauren Goode, Kylie Robison",
+      "title": "Sam Altman's Eye-Scanning Orb Is Now Coming to the US",
+      "description": "At a high-profile event in San Francisco, World announced it is launching a series of Apple-like stores, as well as a partnership with dating giant Match Group.",
+      "url": "https://www.wired.com/story/sam-altman-orb-eyeball-scan-launch-us/",
+      "urlToImage": "https://media.wired.com/photos/68128fbb8756b2b4fe46373f/191:100/w_1280,c_limit/OpenAI-Orb-Sam-Altman-Business-2198164474.jpg",
+      "publishedAt": "2025-05-01T02:24:31Z",
+      "content": "Sam Altmans iris-scanning, identify-verification technology startup is expanding to the US, and will attempt to bridge the divide between blockchain-based financial networks and the payment services … [+2383 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Lily Hay Newman",
+      "title": "WhatsApp Is Walking a Tightrope Between AI Features and Privacy",
+      "description": "WhatsApp's AI tools will use a new “Private Processing” system designed to allow cloud access without letting Meta or anyone else see end-to-end encrypted chats. But experts still see risks.",
+      "url": "https://www.wired.com/story/whatsapp-private-processing-generative-ai-security-risks/",
+      "urlToImage": "https://media.wired.com/photos/680bf4a327f99c0d5fd7d8ce/191:100/w_1280,c_limit/wahtsapp-sec-2186498023.jpg",
+      "publishedAt": "2025-04-29T17:15:00Z",
+      "content": "Last year, Apple debuted a similar scheme, known as Private Cloud Compute, for its Apple Intelligence AI platform. And users can turn the service on in Apples end-to-end encrypted communication app, … [+3186 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Adrienne So",
+      "title": "Garmin Vivoactive 6 Review: Reliable, Real Intelligence",
+      "description": "New subscription service notwithstanding, Garmin’s latest entry-level tracker is still reliable and attractive and works great.",
+      "url": "https://www.wired.com/review/garmin-vivoactive-6/",
+      "urlToImage": "https://media.wired.com/photos/6802d3bd68bf21be6e9c8d99/191:100/w_1280,c_limit/Garmin-Vivoactive_042025_Lede.jpg",
+      "publishedAt": "2025-04-19T13:33:00Z",
+      "content": "Garmin, the maker of our favorite fitness trackers, has several series of entry-level hybrid trackers. Sorting through them can be confusing. The Venu series is the most expensive, the premium tracke… [+2295 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Boone Ashworth",
+      "title": "US Tariffs Could Make Smartphones Dumber",
+      "description": "Donald Trump’s tariffs are likely to make tech manufacturers more risk averse—which could stymie innovation in favor of keeping costs down.",
+      "url": "https://www.wired.com/story/us-tariffs-could-make-smartphones-dumber/",
+      "urlToImage": "https://media.wired.com/photos/67f85c41cc20a27fa1643bf2/191:100/w_1280,c_limit/tariffs-smartphones-dumber-gear-2208839416.jpg",
+      "publishedAt": "2025-04-11T16:01:04Z",
+      "content": "Tariffs, another chaotic venture of the barely four-month-old Trump administration, are set to rollick every sector of the economy and nearly all the goods and services people use across the world. B… [+2761 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Christopher Null",
+      "title": "EssilorLuxottica Nuance Audio Glasses Review: The Future of Hearing",
+      "description": "When hearing aids hide in plain sight.",
+      "url": "https://www.wired.com/review/essilorluxottica-nuance-audio-glasses/",
+      "urlToImage": "https://media.wired.com/photos/681595c6867602ea02e66d8d/191:100/w_1280,c_limit/EssilorLuxottica-Nuance-Audio-Glasses_052025_Lede.jpg",
+      "publishedAt": "2025-05-05T13:00:00Z",
+      "content": "Heres the dirty secret about hearing aids. Millions of people need them. Most dont wear them. Why? Because they hate having shit in their ears. Pardon my French.\r\nI often feel the same way. I have mi… [+1678 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Matt Burgess",
+      "title": "Security Researchers Warn a Widely Used Open Source Tool Poses a 'Persistent' Risk to the US",
+      "description": "The open source software easyjson is used by the US government and American companies. But its ties to Russia’s VK, whose CEO has been sanctioned, have researchers sounding the alarm.",
+      "url": "https://www.wired.com/story/easyjson-open-source-vk-ties/",
+      "urlToImage": "https://media.wired.com/photos/681395ffdfa44b47ade570c8/191:100/w_1280,c_limit/vk-opensource-sec-1237852326.jpg",
+      "publishedAt": "2025-05-05T10:00:00Z",
+      "content": "Nation states take on a strategic positioning, says George Barnes, a former deputy director at the National Security Agency, who spent 36 years at the NSA and now acts as a senior advisor and investo… [+3206 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Lauren Goode, Paresh Dave",
+      "title": "Google Is Once Again Deemed a Monopoly, This Time in Ad Tech",
+      "description": "The future of Google's advertising business is at stake after a federal judge found the company illegally monopolized parts of it.",
+      "url": "https://www.wired.com/story/judge-rules-google-ad-business-monopoly/",
+      "urlToImage": "https://media.wired.com/photos/68012ae9e48ff10dfc626702/191:100/w_1280,c_limit/Google-Ad-Lawsuit-Business-2210074784.jpg",
+      "publishedAt": "2025-04-17T18:07:22Z",
+      "content": "A federal judge ruled today that Google is a monopolist in some parts of the online advertising market, marking the second case in a year where the company was found to have violated US antitrust law… [+4284 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Reece Rogers",
+      "title": "How to Use Instagram Edits, Meta’s New CapCut Clone for Editing Videos",
+      "description": "Instagram’s long-promised video-editing app is out now. Here’s how to use Edits to make Reels, and how the software differs from TikTok’s CapCut.",
+      "url": "https://www.wired.com/story/how-to-use-instagram-edits-capcut-clone/",
+      "urlToImage": "https://media.wired.com/photos/6809531af0d9ff7ab518fc92/191:100/w_1280,c_limit/Instagram-Edits-Gear-Edits-logo-still.jpg",
+      "publishedAt": "2025-04-24T11:00:00Z",
+      "content": "In January, Meta announced its stand-alone video editing app for making Reels, simply called Edits. After release delays, users anywhere in the world can now download the app and try it out.\r\nThe new… [+5164 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Gabriel Nicholas",
+      "title": "The Subjective Charms of Objective-C",
+      "description": "The verbose programming language felt like a universal form of communication—until it didn't.",
+      "url": "https://www.wired.com/story/objective-c-programming-language-verbose/",
+      "urlToImage": "https://media.wired.com/photos/67f41dca948b52c3f1ec3f72/191:100/w_1280,c_limit/Objective-C-Coding-Business-1494177588.jpg",
+      "publishedAt": "2025-04-14T15:19:38Z",
+      "content": "Objective-Cs objects, meanwhile, were adorned with all caps prefixes that proudly identified their creator. Some bore household names, like the button to log into another service with yourTwitter acc… [+4160 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Umar Shakir",
+      "title": "Apple has a new ‘Viral’ playlist on Apple Music and Shazam",
+      "description": "Apple is launching a new global Viral Chart playlist in Apple Music that consists of tracks people are discovering through the company’s Shazam service. The playlist, which is updated daily, shows the top 50 songs people have heard playing out in the real wor…",
+      "url": "https://www.theverge.com/news/663866/apple-music-viral-charts-global-playlist-shazam-top-50",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23925979/acastro_STK046_03.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-05-08T21:01:29Z",
+      "content": "Now Apple and Shazam users have a quick place to see what music people are discovering in the real world.\r\nNow Apple and Shazam users have a quick place to see what music people are discovering in th… [+928 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Tom Warren, Jess Weatherbed",
+      "title": "The EU isn’t happy with Apple’s tax on alternative app stores",
+      "description": "The European Commission has just issued its first Digital Markets Act (DMA) fines to Apple and Meta, and now it’s telling Apple that it’s not impressed with the company’s approach to alternative app stores. The DMA originally forced Apple to begrudgingly allo…",
+      "url": "https://www.theverge.com/news/636196/apple-eu-dma-probe-alternative-app-stores-tax",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK450_EU_G-1.jpg?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
+      "publishedAt": "2025-04-23T11:30:48Z",
+      "content": "The European Commission has also closed its investigation into the iPhones browser choice screen.\r\nThe European Commission has also closed its investigation into the iPhones browser choice screen.\r\nT… [+2572 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Jay Peters",
+      "title": "Spotify already has an app ready to test Apple’s new rules",
+      "description": "Spotify says it has submitted an update to its iOS app that would, among other things, let US customers use payment options that aren’t Apple’s, according to a blog post. The update submission follows Wednesday’s major Epic Games v. Apple ruling that forces A…",
+      "url": "https://www.theverge.com/news/659891/spotify-ios-app-update-apple-payment-rules",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/KtzRDIOEJYs3A6mb9MaNfOeEAekXQwD5Omr7BQZWkzg.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-05-01T22:04:15Z",
+      "content": "The streaming company has already submitted an update to its iOS app following the major ruling in Epic Games v. Apple.\r\nThe streaming company has already submitted an update to its iOS app following… [+1999 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Umar Shakir",
+      "title": "Apple quickly shipped 600 tons of iPhones to ‘beat’ the new tariffs",
+      "description": "Apple airshipped 600 tons of iPhones to the US from India before new US tariffs were scheduled to take effect, as reported by Reuters and The Times of India. Meanwhile, Nikkei Asia reports Apple, Dell, Microsoft, and Lenovo were pressing to ship as many “prem…",
+      "url": "https://www.theverge.com/news/646666/iphones-india-shipments-tariffs",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/DSC_2303-Enhanced-NR_7473e7.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-04-10T17:24:21Z",
+      "content": "Even with tariffs paused, the new rate hikes are reportedly testing tech supply chains around the world.\r\nEven with tariffs paused, the new rate hikes are reportedly testing tech supply chains around… [+1478 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Sarah Jeong",
+      "title": "Apple files appeal to wrest back control of its App Store",
+      "description": "After a stinging rebuke in the lower courts over its legal battle with Epic, Apple filed a notice of appeal to the Ninth Circuit on Monday. The appeal will challenge last week’s ruling that prevents the company from charging developers fees on purchases made …",
+      "url": "https://www.theverge.com/news/661032/apple-epic-games-app-store-antitrust-ninth-circuit",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK468_APPLE_ANTITRUST_CVIRGINIA_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-05-05T14:31:57Z",
+      "content": "Epic Games stunning victory blocks Apple from imposing fees on purchases made outside the App Store.\r\nEpic Games stunning victory blocks Apple from imposing fees on purchases made outside the App Sto… [+938 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Sheena Vasani",
+      "title": "Apple’s latest iPad Mini has dropped to its lowest price in months",
+      "description": "It’s true that Apple’s latest iPad remains an excellent value, especially when it’s on sale for $299. However, if you want features like Apple Intelligence and Apple Pencil Pro support without spending a fortune on an iPad Pro, the latest iPad Mini might be t…",
+      "url": "https://www.theverge.com/tech/661211/apple-ipad-mini-seventh-gen-2024-deal-sale",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/iPad-Mini-Deal-Lead.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-05-05T19:01:47Z",
+      "content": "The iPad Mini offers a cost-effective way to get access to Apple Intelligence.\r\nThe iPad Mini offers a cost-effective way to get access to Apple Intelligence.\r\nIts true that Apples latest iPad remain… [+1730 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Sheena Vasani",
+      "title": "You can grab three months of Apple TV Plus for $2.99 a month right now",
+      "description": "Curious what all the fuss over shows like Severance and The Studio is about? If you’re interested in streaming either, new and eligible returning subscribers can sign up for Apple TV Plus through April 24th for just $2.99 a month for the first three months. A…",
+      "url": "https://www.theverge.com/tech/645569/apple-tv-plus-streaming-deal-severance-silo-studio-sale",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25798074/Severance_Photo_020103.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-04-08T23:22:52Z",
+      "content": "The limited time promo is available to both new and eligible returning subscribers.\r\nThe limited time promo is available to both new and eligible returning subscribers.\r\nCurious what all the fuss ove… [+1232 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Wes Davis",
+      "title": "Google, Apple, and Snap aren’t happy about Meta’s poorly-redacted slides",
+      "description": "During Meta’s antitrust trial today, lawyers representing Apple, Google, and Snap each expressed irritation with Meta over the slides it presented on Monday that The Verge found to contain easy-to-remove redactions. Attorneys for both Apple and Snap called th…",
+      "url": "https://www.theverge.com/news/649834/meta-redactions-apple-google-snap-angry-ftc-antitrust-trial",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STKS487_ANTITRUST_2__STK043_META_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-04-16T18:18:33Z",
+      "content": "An Apple attorney called the inadvertent disclosures from Metas antitrust trial egregious.\r\nAn Apple attorney called the inadvertent disclosures from Metas antitrust trial egregious.\r\nDuring Metas an… [+2421 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "David Pierce",
+      "title": "How Apple lost control of the App Store",
+      "description": "\"Cook chose poorly\" is one of those phrases you'll someday read in a history book about the tech industry. That's just one of the memorable lines from Judge Yvonne Gonzalez Rogers' stinging rebuke of Apple this week, in which she ruled that Apple needed to ch…",
+      "url": "https://www.theverge.com/the-vergecast/660098/apple-app-store-payment-rules-epic-meta-google-vergecast",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/VST_0501_Site.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-05-02T12:42:08Z",
+      "content": "On The Vergecast: Monopoly Madness! Heres whats coming for Apple, Google, and Meta in court.\r\nOn The Vergecast: Monopoly Madness! Heres whats coming for Apple, Google, and Meta in court.\r\nCook chose … [+1922 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Dominic Preston",
+      "title": "Apple approves Spotify app update with external payments",
+      "description": "Apple has approved an update to Spotify’s iPhone app that makes it the first major app to support direct links for US users to pay for plans on an external site, without restrictions. Apple has been forced to change its rules on external payments following an…",
+      "url": "https://www.theverge.com/news/660084/spotify-app-iphone-apple-update-external-payment-links",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25378905/STK088_SPOTIFY_CVIRGINIA_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-05-02T12:11:20Z",
+      "content": "Following the update, Spotify can freely advertise prices to US users if they subscribe outside the app.\r\nFollowing the update, Spotify can freely advertise prices to US users if they subscribe outsi… [+1054 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Jay Peters",
+      "title": "Epic will use an EU account to bring Fortnite back to the US App Store",
+      "description": "Epic Games plans to use its Sweden developer account to submit Fortnite to Apple’s US iOS App Store, according to CEO Tim Sweeney. On Wednesday, following the major ruling in Epic Games v. Apple that blocked Apple from collecting fees on purchases outside of …",
+      "url": "https://www.theverge.com/news/661237/epic-games-fortnite-apple-us-ios-app-store-eu-account",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/fortnite-star-wars-crocs-3839x2159-74daab4dacae.jpg?quality=90&strip=all&crop=0%2C3.4518841135003%2C100%2C93.096231772999&w=1200",
+      "publishedAt": "2025-05-05T17:57:47Z",
+      "content": "Epic Games plans to use its Sweden developer account to submit Fortnite to Apple’s US iOS App Store, according to CEO Tim Sweeney.\n\nOn Wednesday, following the major ruling in Epic Games v. Apple tha… [+1375 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Emma Roth",
+      "title": "Apple asks court to halt App Store rule changes while it appeals",
+      "description": "Apple asked a judge to halt an order forcing it to give up control over App Store payments while it appeals the decision. In a filing on Wednesday, Apple says the order contains “extraordinary intrusions” that could result in “grave irreparable harm” to the c…",
+      "url": "https://www.theverge.com/news/663361/apple-halt-app-store-ruling-appeal",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STK468_APPLE_ANTITRUST_CVIRGINIA_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-05-08T14:49:37Z",
+      "content": "Apple says the orders requirements profoundly undercut the integrated iOS ecosystem.\r\nApple says the orders requirements profoundly undercut the integrated iOS ecosystem.\r\nApple asked a judge to halt… [+1281 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Jay Peters",
+      "title": "Did Tim Cook finagle a special tariff deal? Senator Warren wants to know",
+      "description": "Senator Elizabeth Warren (D-MA) sent Apple CEO Tim Cook a letter asking for information regarding Cook and Apple’s conversations with President Donald Trump’s administration about tariffs and any special exemptions from the tariffs, Bloomberg reports. Warren’…",
+      "url": "https://www.theverge.com/news/654882/apple-tim-cook-tariff-deal-senator-warren",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/STK468_APPLE_ANTITRUST_CVIRGINIA_I.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-04-23T22:01:50Z",
+      "content": "Warren has some questions for Apple.\r\nWarren has some questions for Apple.\r\nSenator Elizabeth Warren (D-MA) sent Apple CEO Tim Cook a letter asking for information regarding Cook and Apples conversat… [+1251 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Jay Peters",
+      "title": "A judge just blew up Apple’s control of the App Store",
+      "description": "Epic Games v. Apple judge Yvonne Gonzalez Rogers just ruled that, effective immediately, Apple is no longer allowed to collect fees on purchases made outside apps and blocks the company from restricting how developers can point users to where they can make pu…",
+      "url": "https://www.theverge.com/news/659246/apple-epic-app-store-judge-ruling-control",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK468_APPLE_ANTITRUST_CVIRGINIA_F.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-04-30T23:04:27Z",
+      "content": "The judge in Epic v. Apple has banned Apple from charging a commission on purchases made outside the App Store because of its ongoing anticompetitive behavior.\r\nThe judge in Epic v. Apple has banned … [+1136 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Emma Roth, David Pierce",
+      "title": "Google confirms it’s close to getting Gemini support on iPhones",
+      "description": "Google is close to striking a deal with Apple to integrate Gemini into the iPhone. During the search monopoly trial on Wednesday, Google CEO Sundar Pichai confirmed the company expects to strike a Gemini deal with Apple by the middle of this year and suggeste…",
+      "url": "https://www.theverge.com/news/658770/google-gemini-apple-iphone-deal-ai",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23951561/VRG_Illo_STK179_L_Normand_SundarPichai_Neutral.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-04-30T15:52:11Z",
+      "content": "Google CEO Sundar Pichai suggested that the company plans to roll out its Gemini integration by the end of this year.\r\nGoogle CEO Sundar Pichai suggested that the company plans to roll out its Gemini… [+1724 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Jay Peters",
+      "title": "Patreon will update its iPhone app to sidestep Apple’s payment system",
+      "description": "Patreon is planning to submit an update to its iOS app that will let creators accept payments outside of Apple’s payment system, spokesperson Adiya Taylor tells The Verge. The planned update follows yesterday’s major Epic Games v. Apple ruling that blocks App…",
+      "url": "https://www.theverge.com/news/659754/patreon-update-iphone-ios-app-apple-payment-system-ruling",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STK326_PATREON_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-05-01T19:32:15Z",
+      "content": "The announcement follows a major court ruling blocking Apple from collecting fees on payments made outside of apps.\r\nThe announcement follows a major court ruling blocking Apple from collecting fees … [+1771 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Andrew Webster",
+      "title": "Apple’s sci-fi epic Foundation is back for season 3 in July",
+      "description": "One of Apple’s biggest series will start streaming again this summer. The company announced that season 3 of Foundation will hit Apple TV Plus on July 11th, with new episodes weekly through September 12th. As part of the announcement, Apple also released the …",
+      "url": "https://www.theverge.com/news/662498/foundation-season-3-date-trailer-apple-tv-plus",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/Foundation_302_00301F.jpg?quality=90&strip=all&crop=0%2C3.4635470032239%2C100%2C93.072905993552&w=1200",
+      "publishedAt": "2025-05-07T13:14:15Z",
+      "content": "You can watch the first teaser trailer right now.\r\nYou can watch the first teaser trailer right now.\r\nOne of Apples biggest series will start streaming again this summer. The company announced that s… [+1777 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Chris Welch",
+      "title": "Apple doesn’t seem too worried about Trump’s tariffs",
+      "description": "Apple reported its latest quarterly earnings on Wednesday under the backdrop of a court ruling that’s poised to upend the company’s App Store business and tariff uncertainty that could spur price increases for devices including the iPhone. At least on this oc…",
+      "url": "https://www.theverge.com/news/659650/apple-q2-2025-earnings-tariffs-app-store",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/VRG_Illo_N_Barclay_1_apple.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-05-01T21:00:22Z",
+      "content": "iPad, Mac, iPhone, and services revenue was up as Apple contends with major legal challenges and AI setbacks.\r\niPad, Mac, iPhone, and services revenue was up as Apple contends with major legal challe… [+2600 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Emma Roth",
+      "title": "Apple’s complicated plan to improve its AI while protecting privacy",
+      "description": "Apple says it’s found a way to make its AI models better without training on its users’ data or even copying it from their iPhones and Macs. In a blog post first reported on by Bloomberg, the company outlined its plans to have devices compare a synthetic data…",
+      "url": "https://www.theverge.com/news/648496/apple-improve-ai-models-differential-privacy",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK071_ACastro_apple_0003_a30fb2.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-04-14T20:37:35Z",
+      "content": "Apples new AI training method involves comparing synthetic data to real-world samples.\r\nApples new AI training method involves comparing synthetic data to real-world samples.\r\nApple says its found a … [+1672 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Charles Pulliam-Moore",
+      "title": "Apple replaced Mythic Quest’s series finale after the show was cancelled",
+      "description": "If you didnât catch Mythic Questâs series finale when it first debuted last month, thereâs a chance you may never be able to see the episode as it originally was. Shortly after Mythic Questâs fourth season and its Side Quest spinoff hit Apple TV Plus,…",
+      "url": "https://www.theverge.com/tv/651829/mythic-quest-new-finale",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/Mythic_Quest_Photo_041006.jpg?quality=90&strip=all&crop=2.2997395833333%2C0%2C95.400520833333%2C100&w=1200",
+      "publishedAt": "2025-04-18T16:18:09Z",
+      "content": "A revised version of the episode is now streaming, meant to tie up the shows loose ends.\r\nA revised version of the episode is now streaming, meant to tie up the shows loose ends.\r\nIf you didnt catch … [+1633 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Lauren Feiner",
+      "title": "Eddy Cue is fighting to save Apple’s $20 billion paycheck from Google",
+      "description": "Microsoft's Bing or DuckDuckGo probably won't disrupt Google's dominance in search, said Apple senior vice president of services Eddy Cue - but AI services easily could. Cue was returning to a courtroom in Washington, DC where he last testified in the Justice…",
+      "url": "https://www.theverge.com/policy/662974/google-search-remedies-trial-eddy-cue-apple-deal-ai",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/236780_Google_AntiTrust_Trial_Custom_Art_CVirginia__0000_4.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-05-07T21:40:34Z",
+      "content": "AI will disrupt Googles search monopoly even without a breakup, the Apple exec says.\r\nAI will disrupt Googles search monopoly even without a breakup, the Apple exec says.\r\nMicrosofts Bing or DuckDuck… [+5172 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Chris Welch",
+      "title": "Apple says tariffs will cost it at least $900 million this quarter",
+      "description": "During Wednesday’s earnings call, Apple CEO Tim Cook went into the most detail yet on how the company is responding to the far-reaching US tariffs imposed by President Trump — and the potential impacts on its business. “Assuming the current global tariff rate…",
+      "url": "https://www.theverge.com/news/659866/apple-trump-tariffs-cost-tim-cook",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/gettyimages-2173356502.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-05-01T22:01:07Z",
+      "content": "CEO Tim Cook reiterated that the vast majority of Apples products arent subject to global reciprocal tariffs at least for the time being.\r\nCEO Tim Cook reiterated that the vast majority of Apples pro… [+2789 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Umar Shakir",
+      "title": "Apple ‘iPhone Air’ rumor suggests a bigger screen coming in 2027",
+      "description": "Apple’s rumored super-slim iPhone “Air” isn’t expected until this fall, but supply chain analyst Ming-Chi Kuo says development has already begun on a redesigned version with a bigger screen. According to Kuo, Apple’s second iPhone Air / iPhone “Slim” model is…",
+      "url": "https://www.theverge.com/news/661009/apple-iphone-air-2-slim-2027",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK071_APPLE_H.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-05-05T14:01:37Z",
+      "content": "Apple’s rumored super-slim iPhone “Air” isn’t expected until this fall, but supply chain analyst Ming-Chi Kuo says development has already begun on a redesigned version with a bigger screen.\n\nAccordi… [+875 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Wes Davis",
+      "title": "Sketchy rumors hint at an iPhone desktop mode",
+      "description": "Alongside all the rumors lately about a big visual redesign for iOS and a more Mac-like iPadOS experience, there’s one interesting one that’s been bubbling up: the iPhone could get a desktop mode of sorts.  Majin Bu, who has a mixed history with leaks, wrote …",
+      "url": "https://www.theverge.com/news/659175/iphone-desktop-mode-sketchy-rumors",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK071_APPLE_M.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-04-30T21:16:00Z",
+      "content": "Apple has tested a version of Stage Manager on iPhones that works with external displays at least in simulations.\r\nApple has tested a version of Stage Manager on iPhones that works with external disp… [+1632 chars]"
+    }
+  ],
+  "all": [
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Adrienne So",
+      "title": "The Apple Watch Turns 10. Here's How Far It's Come",
+      "description": "When the Apple Watch launched, it was unclear if smartwatches would pan out. Ten years later, Apple has a $100-billion hit that reshaped the watch industry and ushered in a new age of fitness tracking.",
+      "url": "https://www.wired.com/story/apple-watch-turns-10/",
+      "urlToImage": "https://media.wired.com/photos/6809646e58f463c0470389a0/191:100/w_1280,c_limit/Apple-Watch-10th-Anniversary_042025_Lede.jpg",
+      "publishedAt": "2025-04-24T14:02:22Z",
+      "content": "Every year, Apple launches one standout health feature, from measuring VO2 Max on the Series 3 to the ECG sensor on the Series 4, all the way to sleep apnea notifications on the Series 10. If you zoo… [+2825 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Brenda Stolyar",
+      "title": "22 Best MacBook Accessories (2025), Tested and Reviewed",
+      "description": "From charging adapters to external monitors, we’ve gathered the essential peripherals for your Apple laptop.",
+      "url": "https://www.wired.com/gallery/best-macbook-accessories/",
+      "urlToImage": "https://media.wired.com/photos/680971b8740117201b72f852/191:100/w_2580,c_limit/Best-MacBook-Accessories_042025_Lede.jpg",
+      "publishedAt": "2025-04-24T12:30:00Z",
+      "content": "More Good Accessories\r\nApple 35W Dual USB-C Port Compact Power Adapter\r\nPhotograph: Apple\r\nWe've tested a lot of accessories. Here are a few more solid options if you're hunting for more.\r\nApple 35W … [+6818 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Kate Knibbs",
+      "title": "Trump’s Tariffs Are Threatening America’s Apple Juice Supply Chain",
+      "description": "Most of the apple juice Americans drink is imported, with a large share coming from China. Experts say families should expect to start paying higher prices for the beloved beverage.",
+      "url": "https://www.wired.com/story/apple-juice-shortage-tariffs/",
+      "urlToImage": "https://media.wired.com/photos/6812934a8f16f415836a2072/191:100/w_1280,c_limit/Apple-Juice-Shortage-Business-2211147875.jpg",
+      "publishedAt": "2025-05-06T11:00:00Z",
+      "content": "Few foods are more American than apple pie, but the truth is, some of the countrys favorite apple products arent actually made in the United States. Apple juice, a perennial lunchroom staple, is a pr… [+2760 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Paresh Dave",
+      "title": "Apple May Face Criminal Charges for Allegedly Lying to a Federal Judge",
+      "description": "A US judge says Apple deliberately chose not to comply with an order requiring it to loosen App Store rules—and then tried to cover up its disobedience.",
+      "url": "https://www.wired.com/story/antitrust-judge-asks-doj-prosecute-apple/",
+      "urlToImage": "https://media.wired.com/photos/6812b2ad2fb47b18ddd52359/191:100/w_1280,c_limit/Apple-Antitrust-Judge-Business-2194365320.jpg",
+      "publishedAt": "2025-05-01T00:20:26Z",
+      "content": "Apple willfully chose not to comply with a court order to loosen its app store restrictionsand one of its executives lied under oath about the companys plans, a federal judge wrote on Wednesday.\r\nJud… [+2982 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Lily Hay Newman, Andy Greenberg",
+      "title": "Millions of Apple Airplay-Enabled Devices Can Be Hacked via Wi-Fi",
+      "description": "Researchers reveal a collection of bugs known as AirBorne that would allow any hacker on the same Wi-Fi network as a third-party AirPlay-enabled device to surreptitiously run their own code on it.",
+      "url": "https://www.wired.com/story/airborne-airplay-flaws/",
+      "urlToImage": "https://media.wired.com/photos/680bfb50851c144df44b3519/191:100/w_1280,c_limit/airplay-malware-gear-1391670285.jpg",
+      "publishedAt": "2025-04-29T12:30:00Z",
+      "content": "Apples AirPlay feature enables iPhones and Macbooks to seamlessly play music or show photos and videos on other Apple devices or third-party speakers and TVs that integrate the protocol. Now newly un… [+3414 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Lauren Goode, Kylie Robison",
+      "title": "Sam Altman's Eye-Scanning Orb Is Now Coming to the US",
+      "description": "At a high-profile event in San Francisco, World announced it is launching a series of Apple-like stores, as well as a partnership with dating giant Match Group.",
+      "url": "https://www.wired.com/story/sam-altman-orb-eyeball-scan-launch-us/",
+      "urlToImage": "https://media.wired.com/photos/68128fbb8756b2b4fe46373f/191:100/w_1280,c_limit/OpenAI-Orb-Sam-Altman-Business-2198164474.jpg",
+      "publishedAt": "2025-05-01T02:24:31Z",
+      "content": "Sam Altmans iris-scanning, identify-verification technology startup is expanding to the US, and will attempt to bridge the divide between blockchain-based financial networks and the payment services … [+2383 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Lily Hay Newman",
+      "title": "WhatsApp Is Walking a Tightrope Between AI Features and Privacy",
+      "description": "WhatsApp's AI tools will use a new “Private Processing” system designed to allow cloud access without letting Meta or anyone else see end-to-end encrypted chats. But experts still see risks.",
+      "url": "https://www.wired.com/story/whatsapp-private-processing-generative-ai-security-risks/",
+      "urlToImage": "https://media.wired.com/photos/680bf4a327f99c0d5fd7d8ce/191:100/w_1280,c_limit/wahtsapp-sec-2186498023.jpg",
+      "publishedAt": "2025-04-29T17:15:00Z",
+      "content": "Last year, Apple debuted a similar scheme, known as Private Cloud Compute, for its Apple Intelligence AI platform. And users can turn the service on in Apples end-to-end encrypted communication app, … [+3186 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Adrienne So",
+      "title": "Garmin Vivoactive 6 Review: Reliable, Real Intelligence",
+      "description": "New subscription service notwithstanding, Garmin’s latest entry-level tracker is still reliable and attractive and works great.",
+      "url": "https://www.wired.com/review/garmin-vivoactive-6/",
+      "urlToImage": "https://media.wired.com/photos/6802d3bd68bf21be6e9c8d99/191:100/w_1280,c_limit/Garmin-Vivoactive_042025_Lede.jpg",
+      "publishedAt": "2025-04-19T13:33:00Z",
+      "content": "Garmin, the maker of our favorite fitness trackers, has several series of entry-level hybrid trackers. Sorting through them can be confusing. The Venu series is the most expensive, the premium tracke… [+2295 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Boone Ashworth",
+      "title": "US Tariffs Could Make Smartphones Dumber",
+      "description": "Donald Trump’s tariffs are likely to make tech manufacturers more risk averse—which could stymie innovation in favor of keeping costs down.",
+      "url": "https://www.wired.com/story/us-tariffs-could-make-smartphones-dumber/",
+      "urlToImage": "https://media.wired.com/photos/67f85c41cc20a27fa1643bf2/191:100/w_1280,c_limit/tariffs-smartphones-dumber-gear-2208839416.jpg",
+      "publishedAt": "2025-04-11T16:01:04Z",
+      "content": "Tariffs, another chaotic venture of the barely four-month-old Trump administration, are set to rollick every sector of the economy and nearly all the goods and services people use across the world. B… [+2761 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Christopher Null",
+      "title": "EssilorLuxottica Nuance Audio Glasses Review: The Future of Hearing",
+      "description": "When hearing aids hide in plain sight.",
+      "url": "https://www.wired.com/review/essilorluxottica-nuance-audio-glasses/",
+      "urlToImage": "https://media.wired.com/photos/681595c6867602ea02e66d8d/191:100/w_1280,c_limit/EssilorLuxottica-Nuance-Audio-Glasses_052025_Lede.jpg",
+      "publishedAt": "2025-05-05T13:00:00Z",
+      "content": "Heres the dirty secret about hearing aids. Millions of people need them. Most dont wear them. Why? Because they hate having shit in their ears. Pardon my French.\r\nI often feel the same way. I have mi… [+1678 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Matt Burgess",
+      "title": "Security Researchers Warn a Widely Used Open Source Tool Poses a 'Persistent' Risk to the US",
+      "description": "The open source software easyjson is used by the US government and American companies. But its ties to Russia’s VK, whose CEO has been sanctioned, have researchers sounding the alarm.",
+      "url": "https://www.wired.com/story/easyjson-open-source-vk-ties/",
+      "urlToImage": "https://media.wired.com/photos/681395ffdfa44b47ade570c8/191:100/w_1280,c_limit/vk-opensource-sec-1237852326.jpg",
+      "publishedAt": "2025-05-05T10:00:00Z",
+      "content": "Nation states take on a strategic positioning, says George Barnes, a former deputy director at the National Security Agency, who spent 36 years at the NSA and now acts as a senior advisor and investo… [+3206 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Lauren Goode, Paresh Dave",
+      "title": "Google Is Once Again Deemed a Monopoly, This Time in Ad Tech",
+      "description": "The future of Google's advertising business is at stake after a federal judge found the company illegally monopolized parts of it.",
+      "url": "https://www.wired.com/story/judge-rules-google-ad-business-monopoly/",
+      "urlToImage": "https://media.wired.com/photos/68012ae9e48ff10dfc626702/191:100/w_1280,c_limit/Google-Ad-Lawsuit-Business-2210074784.jpg",
+      "publishedAt": "2025-04-17T18:07:22Z",
+      "content": "A federal judge ruled today that Google is a monopolist in some parts of the online advertising market, marking the second case in a year where the company was found to have violated US antitrust law… [+4284 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Reece Rogers",
+      "title": "How to Use Instagram Edits, Meta’s New CapCut Clone for Editing Videos",
+      "description": "Instagram’s long-promised video-editing app is out now. Here’s how to use Edits to make Reels, and how the software differs from TikTok’s CapCut.",
+      "url": "https://www.wired.com/story/how-to-use-instagram-edits-capcut-clone/",
+      "urlToImage": "https://media.wired.com/photos/6809531af0d9ff7ab518fc92/191:100/w_1280,c_limit/Instagram-Edits-Gear-Edits-logo-still.jpg",
+      "publishedAt": "2025-04-24T11:00:00Z",
+      "content": "In January, Meta announced its stand-alone video editing app for making Reels, simply called Edits. After release delays, users anywhere in the world can now download the app and try it out.\r\nThe new… [+5164 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Gabriel Nicholas",
+      "title": "The Subjective Charms of Objective-C",
+      "description": "The verbose programming language felt like a universal form of communication—until it didn't.",
+      "url": "https://www.wired.com/story/objective-c-programming-language-verbose/",
+      "urlToImage": "https://media.wired.com/photos/67f41dca948b52c3f1ec3f72/191:100/w_1280,c_limit/Objective-C-Coding-Business-1494177588.jpg",
+      "publishedAt": "2025-04-14T15:19:38Z",
+      "content": "Objective-Cs objects, meanwhile, were adorned with all caps prefixes that proudly identified their creator. Some bore household names, like the button to log into another service with yourTwitter acc… [+4160 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Umar Shakir",
+      "title": "Apple has a new ‘Viral’ playlist on Apple Music and Shazam",
+      "description": "Apple is launching a new global Viral Chart playlist in Apple Music that consists of tracks people are discovering through the company’s Shazam service. The playlist, which is updated daily, shows the top 50 songs people have heard playing out in the real wor…",
+      "url": "https://www.theverge.com/news/663866/apple-music-viral-charts-global-playlist-shazam-top-50",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23925979/acastro_STK046_03.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-05-08T21:01:29Z",
+      "content": "Now Apple and Shazam users have a quick place to see what music people are discovering in the real world.\r\nNow Apple and Shazam users have a quick place to see what music people are discovering in th… [+928 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Tom Warren, Jess Weatherbed",
+      "title": "The EU isn’t happy with Apple’s tax on alternative app stores",
+      "description": "The European Commission has just issued its first Digital Markets Act (DMA) fines to Apple and Meta, and now it’s telling Apple that it’s not impressed with the company’s approach to alternative app stores. The DMA originally forced Apple to begrudgingly allo…",
+      "url": "https://www.theverge.com/news/636196/apple-eu-dma-probe-alternative-app-stores-tax",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK450_EU_G-1.jpg?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
+      "publishedAt": "2025-04-23T11:30:48Z",
+      "content": "The European Commission has also closed its investigation into the iPhones browser choice screen.\r\nThe European Commission has also closed its investigation into the iPhones browser choice screen.\r\nT… [+2572 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Jay Peters",
+      "title": "Spotify already has an app ready to test Apple’s new rules",
+      "description": "Spotify says it has submitted an update to its iOS app that would, among other things, let US customers use payment options that aren’t Apple’s, according to a blog post. The update submission follows Wednesday’s major Epic Games v. Apple ruling that forces A…",
+      "url": "https://www.theverge.com/news/659891/spotify-ios-app-update-apple-payment-rules",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/KtzRDIOEJYs3A6mb9MaNfOeEAekXQwD5Omr7BQZWkzg.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-05-01T22:04:15Z",
+      "content": "The streaming company has already submitted an update to its iOS app following the major ruling in Epic Games v. Apple.\r\nThe streaming company has already submitted an update to its iOS app following… [+1999 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Sheena Vasani",
+      "title": "You can grab three months of Apple TV Plus for $2.99 a month right now",
+      "description": "Curious what all the fuss over shows like Severance and The Studio is about? If you’re interested in streaming either, new and eligible returning subscribers can sign up for Apple TV Plus through April 24th for just $2.99 a month for the first three months. A…",
+      "url": "https://www.theverge.com/tech/645569/apple-tv-plus-streaming-deal-severance-silo-studio-sale",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25798074/Severance_Photo_020103.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-04-08T23:22:52Z",
+      "content": "The limited time promo is available to both new and eligible returning subscribers.\r\nThe limited time promo is available to both new and eligible returning subscribers.\r\nCurious what all the fuss ove… [+1232 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Wes Davis",
+      "title": "Google, Apple, and Snap aren’t happy about Meta’s poorly-redacted slides",
+      "description": "During Meta’s antitrust trial today, lawyers representing Apple, Google, and Snap each expressed irritation with Meta over the slides it presented on Monday that The Verge found to contain easy-to-remove redactions. Attorneys for both Apple and Snap called th…",
+      "url": "https://www.theverge.com/news/649834/meta-redactions-apple-google-snap-angry-ftc-antitrust-trial",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STKS487_ANTITRUST_2__STK043_META_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-04-16T18:18:33Z",
+      "content": "An Apple attorney called the inadvertent disclosures from Metas antitrust trial egregious.\r\nAn Apple attorney called the inadvertent disclosures from Metas antitrust trial egregious.\r\nDuring Metas an… [+2421 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "David Pierce",
+      "title": "How Apple lost control of the App Store",
+      "description": "\"Cook chose poorly\" is one of those phrases you'll someday read in a history book about the tech industry. That's just one of the memorable lines from Judge Yvonne Gonzalez Rogers' stinging rebuke of Apple this week, in which she ruled that Apple needed to ch…",
+      "url": "https://www.theverge.com/the-vergecast/660098/apple-app-store-payment-rules-epic-meta-google-vergecast",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/VST_0501_Site.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-05-02T12:42:08Z",
+      "content": "On The Vergecast: Monopoly Madness! Heres whats coming for Apple, Google, and Meta in court.\r\nOn The Vergecast: Monopoly Madness! Heres whats coming for Apple, Google, and Meta in court.\r\nCook chose … [+1922 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Dominic Preston",
+      "title": "Apple approves Spotify app update with external payments",
+      "description": "Apple has approved an update to Spotify’s iPhone app that makes it the first major app to support direct links for US users to pay for plans on an external site, without restrictions. Apple has been forced to change its rules on external payments following an…",
+      "url": "https://www.theverge.com/news/660084/spotify-app-iphone-apple-update-external-payment-links",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25378905/STK088_SPOTIFY_CVIRGINIA_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-05-02T12:11:20Z",
+      "content": "Following the update, Spotify can freely advertise prices to US users if they subscribe outside the app.\r\nFollowing the update, Spotify can freely advertise prices to US users if they subscribe outsi… [+1054 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Jay Peters",
+      "title": "Epic will use an EU account to bring Fortnite back to the US App Store",
+      "description": "Epic Games plans to use its Sweden developer account to submit Fortnite to Apple’s US iOS App Store, according to CEO Tim Sweeney. On Wednesday, following the major ruling in Epic Games v. Apple that blocked Apple from collecting fees on purchases outside of …",
+      "url": "https://www.theverge.com/news/661237/epic-games-fortnite-apple-us-ios-app-store-eu-account",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/fortnite-star-wars-crocs-3839x2159-74daab4dacae.jpg?quality=90&strip=all&crop=0%2C3.4518841135003%2C100%2C93.096231772999&w=1200",
+      "publishedAt": "2025-05-05T17:57:47Z",
+      "content": "Epic Games plans to use its Sweden developer account to submit Fortnite to Apple’s US iOS App Store, according to CEO Tim Sweeney.\n\nOn Wednesday, following the major ruling in Epic Games v. Apple tha… [+1375 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Emma Roth",
+      "title": "Apple asks court to halt App Store rule changes while it appeals",
+      "description": "Apple asked a judge to halt an order forcing it to give up control over App Store payments while it appeals the decision. In a filing on Wednesday, Apple says the order contains “extraordinary intrusions” that could result in “grave irreparable harm” to the c…",
+      "url": "https://www.theverge.com/news/663361/apple-halt-app-store-ruling-appeal",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STK468_APPLE_ANTITRUST_CVIRGINIA_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-05-08T14:49:37Z",
+      "content": "Apple says the orders requirements profoundly undercut the integrated iOS ecosystem.\r\nApple says the orders requirements profoundly undercut the integrated iOS ecosystem.\r\nApple asked a judge to halt… [+1281 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Umar Shakir",
+      "title": "Apple quickly shipped 600 tons of iPhones to ‘beat’ the new tariffs",
+      "description": "Apple airshipped 600 tons of iPhones to the US from India before new US tariffs were scheduled to take effect, as reported by Reuters and The Times of India. Meanwhile, Nikkei Asia reports Apple, Dell, Microsoft, and Lenovo were pressing to ship as many “prem…",
+      "url": "https://www.theverge.com/news/646666/iphones-india-shipments-tariffs",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/DSC_2303-Enhanced-NR_7473e7.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-04-10T17:24:21Z",
+      "content": "Even with tariffs paused, the new rate hikes are reportedly testing tech supply chains around the world.\r\nEven with tariffs paused, the new rate hikes are reportedly testing tech supply chains around… [+1478 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Sarah Jeong",
+      "title": "Apple files appeal to wrest back control of its App Store",
+      "description": "After a stinging rebuke in the lower courts over its legal battle with Epic, Apple filed a notice of appeal to the Ninth Circuit on Monday. The appeal will challenge last week’s ruling that prevents the company from charging developers fees on purchases made …",
+      "url": "https://www.theverge.com/news/661032/apple-epic-games-app-store-antitrust-ninth-circuit",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK468_APPLE_ANTITRUST_CVIRGINIA_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-05-05T14:31:57Z",
+      "content": "Epic Games stunning victory blocks Apple from imposing fees on purchases made outside the App Store.\r\nEpic Games stunning victory blocks Apple from imposing fees on purchases made outside the App Sto… [+938 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Sheena Vasani",
+      "title": "Apple’s latest iPad Mini has dropped to its lowest price in months",
+      "description": "It’s true that Apple’s latest iPad remains an excellent value, especially when it’s on sale for $299. However, if you want features like Apple Intelligence and Apple Pencil Pro support without spending a fortune on an iPad Pro, the latest iPad Mini might be t…",
+      "url": "https://www.theverge.com/tech/661211/apple-ipad-mini-seventh-gen-2024-deal-sale",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/iPad-Mini-Deal-Lead.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-05-05T19:01:47Z",
+      "content": "The iPad Mini offers a cost-effective way to get access to Apple Intelligence.\r\nThe iPad Mini offers a cost-effective way to get access to Apple Intelligence.\r\nIts true that Apples latest iPad remain… [+1730 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Jay Peters",
+      "title": "Did Tim Cook finagle a special tariff deal? Senator Warren wants to know",
+      "description": "Senator Elizabeth Warren (D-MA) sent Apple CEO Tim Cook a letter asking for information regarding Cook and Apple’s conversations with President Donald Trump’s administration about tariffs and any special exemptions from the tariffs, Bloomberg reports. Warren’…",
+      "url": "https://www.theverge.com/news/654882/apple-tim-cook-tariff-deal-senator-warren",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/STK468_APPLE_ANTITRUST_CVIRGINIA_I.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-04-23T22:01:50Z",
+      "content": "Warren has some questions for Apple.\r\nWarren has some questions for Apple.\r\nSenator Elizabeth Warren (D-MA) sent Apple CEO Tim Cook a letter asking for information regarding Cook and Apples conversat… [+1251 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Jay Peters",
+      "title": "A judge just blew up Apple’s control of the App Store",
+      "description": "Epic Games v. Apple judge Yvonne Gonzalez Rogers just ruled that, effective immediately, Apple is no longer allowed to collect fees on purchases made outside apps and blocks the company from restricting how developers can point users to where they can make pu…",
+      "url": "https://www.theverge.com/news/659246/apple-epic-app-store-judge-ruling-control",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK468_APPLE_ANTITRUST_CVIRGINIA_F.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-04-30T23:04:27Z",
+      "content": "The judge in Epic v. Apple has banned Apple from charging a commission on purchases made outside the App Store because of its ongoing anticompetitive behavior.\r\nThe judge in Epic v. Apple has banned … [+1136 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Emma Roth, David Pierce",
+      "title": "Google confirms it’s close to getting Gemini support on iPhones",
+      "description": "Google is close to striking a deal with Apple to integrate Gemini into the iPhone. During the search monopoly trial on Wednesday, Google CEO Sundar Pichai confirmed the company expects to strike a Gemini deal with Apple by the middle of this year and suggeste…",
+      "url": "https://www.theverge.com/news/658770/google-gemini-apple-iphone-deal-ai",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23951561/VRG_Illo_STK179_L_Normand_SundarPichai_Neutral.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-04-30T15:52:11Z",
+      "content": "Google CEO Sundar Pichai suggested that the company plans to roll out its Gemini integration by the end of this year.\r\nGoogle CEO Sundar Pichai suggested that the company plans to roll out its Gemini… [+1724 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Jay Peters",
+      "title": "Patreon will update its iPhone app to sidestep Apple’s payment system",
+      "description": "Patreon is planning to submit an update to its iOS app that will let creators accept payments outside of Apple’s payment system, spokesperson Adiya Taylor tells The Verge. The planned update follows yesterday’s major Epic Games v. Apple ruling that blocks App…",
+      "url": "https://www.theverge.com/news/659754/patreon-update-iphone-ios-app-apple-payment-system-ruling",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STK326_PATREON_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-05-01T19:32:15Z",
+      "content": "The announcement follows a major court ruling blocking Apple from collecting fees on payments made outside of apps.\r\nThe announcement follows a major court ruling blocking Apple from collecting fees … [+1771 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Andrew Webster",
+      "title": "Apple’s sci-fi epic Foundation is back for season 3 in July",
+      "description": "One of Apple’s biggest series will start streaming again this summer. The company announced that season 3 of Foundation will hit Apple TV Plus on July 11th, with new episodes weekly through September 12th. As part of the announcement, Apple also released the …",
+      "url": "https://www.theverge.com/news/662498/foundation-season-3-date-trailer-apple-tv-plus",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/Foundation_302_00301F.jpg?quality=90&strip=all&crop=0%2C3.4635470032239%2C100%2C93.072905993552&w=1200",
+      "publishedAt": "2025-05-07T13:14:15Z",
+      "content": "You can watch the first teaser trailer right now.\r\nYou can watch the first teaser trailer right now.\r\nOne of Apples biggest series will start streaming again this summer. The company announced that s… [+1777 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Chris Welch",
+      "title": "Apple doesn’t seem too worried about Trump’s tariffs",
+      "description": "Apple reported its latest quarterly earnings on Wednesday under the backdrop of a court ruling that’s poised to upend the company’s App Store business and tariff uncertainty that could spur price increases for devices including the iPhone. At least on this oc…",
+      "url": "https://www.theverge.com/news/659650/apple-q2-2025-earnings-tariffs-app-store",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/VRG_Illo_N_Barclay_1_apple.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-05-01T21:00:22Z",
+      "content": "iPad, Mac, iPhone, and services revenue was up as Apple contends with major legal challenges and AI setbacks.\r\niPad, Mac, iPhone, and services revenue was up as Apple contends with major legal challe… [+2600 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Emma Roth",
+      "title": "Apple’s complicated plan to improve its AI while protecting privacy",
+      "description": "Apple says it’s found a way to make its AI models better without training on its users’ data or even copying it from their iPhones and Macs. In a blog post first reported on by Bloomberg, the company outlined its plans to have devices compare a synthetic data…",
+      "url": "https://www.theverge.com/news/648496/apple-improve-ai-models-differential-privacy",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK071_ACastro_apple_0003_a30fb2.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-04-14T20:37:35Z",
+      "content": "Apples new AI training method involves comparing synthetic data to real-world samples.\r\nApples new AI training method involves comparing synthetic data to real-world samples.\r\nApple says its found a … [+1672 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Charles Pulliam-Moore",
+      "title": "Apple replaced Mythic Quest’s series finale after the show was cancelled",
+      "description": "If you didnât catch Mythic Questâs series finale when it first debuted last month, thereâs a chance you may never be able to see the episode as it originally was. Shortly after Mythic Questâs fourth season and its Side Quest spinoff hit Apple TV Plus,…",
+      "url": "https://www.theverge.com/tv/651829/mythic-quest-new-finale",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/Mythic_Quest_Photo_041006.jpg?quality=90&strip=all&crop=2.2997395833333%2C0%2C95.400520833333%2C100&w=1200",
+      "publishedAt": "2025-04-18T16:18:09Z",
+      "content": "A revised version of the episode is now streaming, meant to tie up the shows loose ends.\r\nA revised version of the episode is now streaming, meant to tie up the shows loose ends.\r\nIf you didnt catch … [+1633 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Lauren Feiner",
+      "title": "Eddy Cue is fighting to save Apple’s $20 billion paycheck from Google",
+      "description": "Microsoft's Bing or DuckDuckGo probably won't disrupt Google's dominance in search, said Apple senior vice president of services Eddy Cue - but AI services easily could. Cue was returning to a courtroom in Washington, DC where he last testified in the Justice…",
+      "url": "https://www.theverge.com/policy/662974/google-search-remedies-trial-eddy-cue-apple-deal-ai",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/236780_Google_AntiTrust_Trial_Custom_Art_CVirginia__0000_4.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-05-07T21:40:34Z",
+      "content": "AI will disrupt Googles search monopoly even without a breakup, the Apple exec says.\r\nAI will disrupt Googles search monopoly even without a breakup, the Apple exec says.\r\nMicrosofts Bing or DuckDuck… [+5172 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Chris Welch",
+      "title": "Apple says tariffs will cost it at least $900 million this quarter",
+      "description": "During Wednesday’s earnings call, Apple CEO Tim Cook went into the most detail yet on how the company is responding to the far-reaching US tariffs imposed by President Trump — and the potential impacts on its business. “Assuming the current global tariff rate…",
+      "url": "https://www.theverge.com/news/659866/apple-trump-tariffs-cost-tim-cook",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/gettyimages-2173356502.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-05-01T22:01:07Z",
+      "content": "CEO Tim Cook reiterated that the vast majority of Apples products arent subject to global reciprocal tariffs at least for the time being.\r\nCEO Tim Cook reiterated that the vast majority of Apples pro… [+2789 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Umar Shakir",
+      "title": "Apple ‘iPhone Air’ rumor suggests a bigger screen coming in 2027",
+      "description": "Apple’s rumored super-slim iPhone “Air” isn’t expected until this fall, but supply chain analyst Ming-Chi Kuo says development has already begun on a redesigned version with a bigger screen. According to Kuo, Apple’s second iPhone Air / iPhone “Slim” model is…",
+      "url": "https://www.theverge.com/news/661009/apple-iphone-air-2-slim-2027",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK071_APPLE_H.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-05-05T14:01:37Z",
+      "content": "Apple’s rumored super-slim iPhone “Air” isn’t expected until this fall, but supply chain analyst Ming-Chi Kuo says development has already begun on a redesigned version with a bigger screen.\n\nAccordi… [+875 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Wes Davis",
+      "title": "Sketchy rumors hint at an iPhone desktop mode",
+      "description": "Alongside all the rumors lately about a big visual redesign for iOS and a more Mac-like iPadOS experience, there’s one interesting one that’s been bubbling up: the iPhone could get a desktop mode of sorts.  Majin Bu, who has a mixed history with leaks, wrote …",
+      "url": "https://www.theverge.com/news/659175/iphone-desktop-mode-sketchy-rumors",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK071_APPLE_M.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-04-30T21:16:00Z",
+      "content": "Apple has tested a version of Stage Manager on iPhones that works with external displays at least in simulations.\r\nApple has tested a version of Stage Manager on iPhones that works with external disp… [+1632 chars]"
+    }
+  ],
+  "technology": [
+    {
+      "id": "ars-technica",
+      "name": "Ars Technica",
+      "description": "The PC enthusiast's resource. Power users and the tools they love, without computing religion.",
+      "url": "https://arstechnica.com",
+      "category": "technology",
+      "language": "en",
+      "country": "us"
+    },
+    {
+      "id": "crypto-coins-news",
+      "name": "Crypto Coins News",
+      "description": "Providing breaking cryptocurrency news - focusing on Bitcoin, Ethereum, ICOs, blockchain technology, and smart contracts.",
+      "url": "https://www.ccn.com",
+      "category": "technology",
+      "language": "en",
+      "country": "us"
+    },
+    {
+      "id": "engadget",
+      "name": "Engadget",
+      "description": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics.",
+      "url": "https://www.engadget.com",
+      "category": "technology",
+      "language": "en",
+      "country": "us"
+    },
+    {
+      "id": "gruenderszene",
+      "name": "Gruenderszene",
+      "description": "Online-Magazin für Startups und die digitale Wirtschaft. News und Hintergründe zu Investment, VC und Gründungen.",
+      "url": "http://www.gruenderszene.de",
+      "category": "technology",
+      "language": "de",
+      "country": "de"
+    },
+    {
+      "id": "hacker-news",
+      "name": "Hacker News",
+      "description": "Hacker News is a social news website focusing on computer science and entrepreneurship. It is run by Paul Graham's investment fund and startup incubator, Y Combinator. In general, content that can be submitted is defined as \"anything that gratifies one's intellectual curiosity\".",
+      "url": "https://news.ycombinator.com",
+      "category": "technology",
+      "language": "en",
+      "country": "us"
+    },
+    {
+      "id": "recode",
+      "name": "Recode",
+      "description": "Get the latest independent tech news, reviews and analysis from Recode with the most informed and respected journalists in technology and media.",
+      "url": "http://www.recode.net",
+      "category": "technology",
+      "language": "en",
+      "country": "us"
+    },
+    {
+      "id": "t3n",
+      "name": "T3n",
+      "description": "Das Online-Magazin bietet Artikel zu den Themen E-Business, Social Media, Startups und Webdesign.",
+      "url": "https://t3n.de",
+      "category": "technology",
+      "language": "de",
+      "country": "de"
+    },
+    {
+      "id": "techcrunch",
+      "name": "TechCrunch",
+      "description": "TechCrunch is a leading technology media property, dedicated to obsessively profiling startups, reviewing new Internet products, and breaking tech news.",
+      "url": "https://techcrunch.com",
+      "category": "technology",
+      "language": "en",
+      "country": "us"
+    },
+    {
+      "id": "techcrunch-cn",
+      "name": "TechCrunch (CN)",
+      "description": "TechCrunch is a leading technology media property, dedicated to obsessively profiling startups, reviewing new Internet products, and breaking tech news.",
+      "url": "https://techcrunch.cn",
+      "category": "technology",
+      "language": "zh",
+      "country": "zh"
+    },
+    {
+      "id": "techradar",
+      "name": "TechRadar",
+      "description": "The latest technology news and reviews, covering computing, home entertainment systems, gadgets and more.",
+      "url": "https://www.techradar.com",
+      "category": "technology",
+      "language": "en",
+      "country": "us"
+    },
+    {
+      "id": "the-next-web",
+      "name": "The Next Web",
+      "description": "The Next Web is one of the world’s largest online publications that delivers an international perspective on the latest news about Internet technology, business and culture.",
+      "url": "http://thenextweb.com",
+      "category": "technology",
+      "language": "en",
+      "country": "us"
+    },
+    {
+      "id": "the-verge",
+      "name": "The Verge",
+      "description": "The Verge covers the intersection of technology, science, art, and culture.",
+      "url": "http://www.theverge.com",
+      "category": "technology",
+      "language": "en",
+      "country": "us"
+    },
+    {
+      "id": "wired",
+      "name": "Wired",
+      "description": "Wired is a monthly American magazine, published in print and online editions, that focuses on how emerging technologies affect culture, the economy, and politics.",
+      "url": "https://www.wired.com",
+      "category": "technology",
+      "language": "en",
+      "country": "us"
+    },
+    {
+      "id": "wired-de",
+      "name": "Wired.de",
+      "description": "Wired reports on how emerging technologies affect culture, the economy and politics.",
+      "url": "https://www.wired.de",
+      "category": "technology",
+      "language": "de",
+      "country": "de"
+    }
+  ],
+  "business": [
+    {
+      "id": "argaam",
+      "name": "Argaam",
+      "description": "ارقام موقع متخصص في متابعة سوق الأسهم السعودي تداول - تاسي - مع تغطيه معمقة لشركات واسعار ومنتجات البتروكيماويات , تقارير مالية الاكتتابات الجديده ",
+      "url": "https://www.argaam.com",
+      "category": "business",
+      "language": "ar",
+      "country": "sa"
+    },
+    {
+      "id": "australian-financial-review",
+      "name": "Australian Financial Review",
+      "description": "The Australian Financial Review reports the latest news from business, finance, investment and politics, updated in real time. It has a reputation for independent, award-winning journalism and is essential reading for the business and investor community.",
+      "url": "http://www.afr.com",
+      "category": "business",
+      "language": "en",
+      "country": "au"
+    },
+    {
+      "id": "bloomberg",
+      "name": "Bloomberg",
+      "description": "Bloomberg delivers business and markets news, data, analysis, and video to the world, featuring stories from Businessweek and Bloomberg News.",
+      "url": "http://www.bloomberg.com",
+      "category": "business",
+      "language": "en",
+      "country": "us"
+    },
+    {
+      "id": "business-insider",
+      "name": "Business Insider",
+      "description": "Business Insider is a fast-growing business site with deep financial, media, tech, and other industry verticals. Launched in 2007, the site is now the largest business news site on the web.",
+      "url": "http://www.businessinsider.com",
+      "category": "business",
+      "language": "en",
+      "country": "us"
+    },
+    {
+      "id": "die-zeit",
+      "name": "Die Zeit",
+      "description": "Aktuelle Nachrichten, Kommentare, Analysen und Hintergrundberichte aus Politik, Wirtschaft, Gesellschaft, Wissen, Kultur und Sport lesen Sie auf ZEIT ONLINE.",
+      "url": "http://www.zeit.de/index",
+      "category": "business",
+      "language": "de",
+      "country": "de"
+    },
+    {
+      "id": "financial-post",
+      "name": "Financial Post",
+      "description": "Find the latest happenings in the Canadian Financial Sector and stay up to date with changing trends in Business Markets. Read trading and investing advice from professionals.",
+      "url": "https://financialpost.com",
+      "category": "business",
+      "language": "en",
+      "country": "ca"
+    },
+    {
+      "id": "fortune",
+      "name": "Fortune",
+      "description": "Fortune 500 Daily and Breaking Business News",
+      "url": "http://fortune.com",
+      "category": "business",
+      "language": "en",
+      "country": "us"
+    },
+    {
+      "id": "handelsblatt",
+      "name": "Handelsblatt",
+      "description": "Auf Handelsblatt lesen sie Nachrichten über Unternehmen, Finanzen, Politik und Technik. Verwalten Sie Ihre Finanzanlagen mit Hilfe unserer Börsenkurse.",
+      "url": "http://www.handelsblatt.com",
+      "category": "business",
+      "language": "de",
+      "country": "de"
+    },
+    {
+      "id": "il-sole-24-ore",
+      "name": "Il Sole 24 Ore",
+      "description": "Notizie di economia, cronaca italiana ed estera, quotazioni borsa in tempo reale e di finanza, norme e tributi, fondi e obbligazioni, mutui, prestiti e lavoro a cura de Il Sole 24 Ore.",
+      "url": "https://www.ilsole24ore.com",
+      "category": "business",
+      "language": "it",
+      "country": "it"
+    },
+    {
+      "id": "info-money",
+      "name": "InfoMoney",
+      "description": "No InfoMoney você encontra tudo o que precisa sobre dinheiro. Ações, investimentos, bolsas de valores e muito mais. Aqui você encontra informação que vale dinheiro!",
+      "url": "https://www.infomoney.com.br",
+      "category": "business",
+      "language": "pt",
+      "country": "br"
+    },
+    {
+      "id": "les-echos",
+      "name": "Les Echos",
+      "description": "Toute l'actualité économique, financière et boursière française et internationale sur Les Echos.fr",
+      "url": "https://www.lesechos.fr",
+      "category": "business",
+      "language": "fr",
+      "country": "fr"
+    },
+    {
+      "id": "the-wall-street-journal",
+      "name": "The Wall Street Journal",
+      "description": "WSJ online coverage of breaking news and current headlines from the US and around the world. Top stories, photos, videos, detailed analysis and in-depth reporting.",
+      "url": "https://www.wsj.com",
+      "category": "business",
+      "language": "en",
+      "country": "us"
+    },
+    {
+      "id": "wirtschafts-woche",
+      "name": "Wirtschafts Woche",
+      "description": "Das Online-Portal des führenden Wirtschaftsmagazins in Deutschland. Das Entscheidende zu Unternehmen, Finanzen, Erfolg und Technik.",
+      "url": "http://www.wiwo.de",
+      "category": "business",
+      "language": "de",
+      "country": "de"
+    }
+  ],
+  "sports": [
+    {
+      "id": "bbc-sport",
+      "name": "BBC Sport",
+      "description": "The home of BBC Sport online. Includes live sports coverage, breaking news, results, video, audio and analysis on Football, F1, Cricket, Rugby Union, Rugby League, Golf, Tennis and all the main world sports, plus major events such as the Olympic Games.",
+      "url": "http://www.bbc.co.uk/sport",
+      "category": "sports",
+      "language": "en",
+      "country": "gb"
+    },
+    {
+      "id": "bleacher-report",
+      "name": "Bleacher Report",
+      "description": "Sports journalists and bloggers covering NFL, MLB, NBA, NHL, MMA, college football and basketball, NASCAR, fantasy sports and more. News, photos, mock drafts, game scores, player profiles and more!",
+      "url": "http://www.bleacherreport.com",
+      "category": "sports",
+      "language": "en",
+      "country": "us"
+    },
+    {
+      "id": "espn",
+      "name": "ESPN",
+      "description": "ESPN has up-to-the-minute sports news coverage, scores, highlights and commentary for NFL, MLB, NBA, College Football, NCAA Basketball and more.",
+      "url": "https://www.espn.com",
+      "category": "sports",
+      "language": "en",
+      "country": "us"
+    },
+    {
+      "id": "espn-cric-info",
+      "name": "ESPN Cric Info",
+      "description": "ESPN Cricinfo provides the most comprehensive cricket coverage available including live ball-by-ball commentary, news, unparalleled statistics, quality editorial comment and analysis.",
+      "url": "http://www.espncricinfo.com/",
+      "category": "sports",
+      "language": "en",
+      "country": "us"
+    },
+    {
+      "id": "football-italia",
+      "name": "Football Italia",
+      "description": "Italian football news, analysis, fixtures and results for the latest from Serie A, Serie B and the Azzurri.",
+      "url": "http://www.football-italia.net",
+      "category": "sports",
+      "language": "en",
+      "country": "it"
+    },
+    {
+      "id": "four-four-two",
+      "name": "FourFourTwo",
+      "description": "The latest football news, in-depth features, tactical and statistical analysis from FourFourTwo, the UK&#039;s favourite football monthly.",
+      "url": "http://www.fourfourtwo.com/news",
+      "category": "sports",
+      "language": "en",
+      "country": "gb"
+    },
+    {
+      "id": "fox-sports",
+      "name": "Fox Sports",
+      "description": "Find live scores, player and team news, videos, rumors, stats, standings, schedules and fantasy games on FOX Sports.",
+      "url": "http://www.foxsports.com",
+      "category": "sports",
+      "language": "en",
+      "country": "us"
+    },
+    {
+      "id": "lequipe",
+      "name": "L'equipe",
+      "description": "Le sport en direct sur L'EQUIPE.fr. Les informations, résultats et classements de tous les sports. Directs commentés, images et vidéos à regarder et à partager !",
+      "url": "https://www.lequipe.fr",
+      "category": "sports",
+      "language": "fr",
+      "country": "fr"
+    },
+    {
+      "id": "marca",
+      "name": "Marca",
+      "description": "La mejor información deportiva en castellano actualizada minuto a minuto en noticias, vídeos, fotos, retransmisiones y resultados en directo.",
+      "url": "http://www.marca.com",
+      "category": "sports",
+      "language": "es",
+      "country": "es"
+    },
+    {
+      "id": "nfl-news",
+      "name": "NFL News",
+      "description": "The official source for NFL news, schedules, stats, scores and more.",
+      "url": "https://www.nfl.com",
+      "category": "sports",
+      "language": "en",
+      "country": "us"
+    },
+    {
+      "id": "nhl-news",
+      "name": "NHL News",
+      "description": "The most up-to-date breaking hockey news from the official source including interviews, rumors, statistics and schedules.",
+      "url": "https://www.nhl.com/news",
+      "category": "sports",
+      "language": "en",
+      "country": "us"
+    },
+    {
+      "id": "talksport",
+      "name": "TalkSport",
+      "description": "Tune in to the world's biggest sports radio station - Live Premier League football coverage, breaking sports news, transfer rumours &amp; exclusive interviews.",
+      "url": "http://talksport.com",
+      "category": "sports",
+      "language": "en",
+      "country": "gb"
+    },
+    {
+      "id": "the-sport-bible",
+      "name": "The Sport Bible",
+      "description": "TheSPORTbible is one of the largest communities for sports fans across the world. Send us your sporting pictures and videos!",
+      "url": "https://www.thesportbible.com",
+      "category": "sports",
+      "language": "en",
+      "country": "gb"
+    }
+  ],
+  "entertainment": [
+    {
+      "id": "buzzfeed",
+      "name": "Buzzfeed",
+      "description": "BuzzFeed is a cross-platform, global network for news and entertainment that generates seven billion views each month.",
+      "url": "https://www.buzzfeed.com",
+      "category": "entertainment",
+      "language": "en",
+      "country": "us"
+    },
+    {
+      "id": "entertainment-weekly",
+      "name": "Entertainment Weekly",
+      "description": "Online version of the print magazine includes entertainment news, interviews, reviews of music, film, TV and books, and a special area for magazine subscribers.",
+      "url": "http://www.ew.com",
+      "category": "entertainment",
+      "language": "en",
+      "country": "us"
+    },
+    {
+      "id": "ign",
+      "name": "IGN",
+      "description": "IGN is your site for Xbox One, PS4, PC, Wii-U, Xbox 360, PS3, Wii, 3DS, PS Vita and iPhone games with expert reviews, news, previews, trailers, cheat codes, wiki guides and walkthroughs.",
+      "url": "http://www.ign.com",
+      "category": "entertainment",
+      "language": "en",
+      "country": "us"
+    },
+    {
+      "id": "mashable",
+      "name": "Mashable",
+      "description": "Mashable is a global, multi-platform media and entertainment company.",
+      "url": "https://mashable.com",
+      "category": "entertainment",
+      "language": "en",
+      "country": "us"
+    },
+    {
+      "id": "mtv-news",
+      "name": "MTV News",
+      "description": "The ultimate news source for music, celebrity, entertainment, movies, and current events on the web. It's pop culture on steroids.",
+      "url": "http://www.mtv.com/news",
+      "category": "entertainment",
+      "language": "en",
+      "country": "us"
+    },
+    {
+      "id": "mtv-news-uk",
+      "name": "MTV News (UK)",
+      "description": "All the latest celebrity news, gossip, exclusive interviews and pictures from the world of music and entertainment.",
+      "url": "http://www.mtv.co.uk/news",
+      "category": "entertainment",
+      "language": "en",
+      "country": "gb"
+    },
+    {
+      "id": "polygon",
+      "name": "Polygon",
+      "description": "Polygon is a gaming website in partnership with Vox Media. Our culture focused site covers games, their creators, the fans, trending stories and entertainment news.",
+      "url": "http://www.polygon.com",
+      "category": "entertainment",
+      "language": "en",
+      "country": "us"
+    },
+    {
+      "id": "the-lad-bible",
+      "name": "The Lad Bible",
+      "description": "The LAD Bible is one of the largest community for guys aged 16-30 in the world. Send us your funniest pictures and videos!",
+      "url": "https://www.theladbible.com",
+      "category": "entertainment",
+      "language": "en",
+      "country": "gb"
+    }
+  ]
+}

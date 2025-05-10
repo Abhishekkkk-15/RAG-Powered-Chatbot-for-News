@@ -20,18 +20,6 @@ const Header: React.FC = () => {
             </span>
           </Link>
 
-          {/* Desktop Navigation */}
-          <nav className="hidden md:flex space-x-8">
-            {categories.slice(0, 5).map((category) => (
-              <Link
-                key={category.id}
-                to={`/?category=${category.slug}`}
-                className="text-gray-700 hover:text-blue-800 dark:text-gray-300 dark:hover:text-white font-medium transition-colors duration-200"
-              >
-                {category.name}
-              </Link>
-            ))}
-          </nav>
 
           {/* Desktop Actions */}
           <div className="hidden md:flex items-center space-x-4">

@@ -19,6 +19,7 @@ console.log(currentCategory)
               ? 'bg-blue-800 text-white'
               : 'bg-gray-100 text-gray-800 hover:bg-gray-200 dark:bg-slate-800 dark:text-gray-200 dark:hover:bg-slate-700'
           }`}
+          onClick={()=> setCat("all")}
         >
           All
         </Link>
